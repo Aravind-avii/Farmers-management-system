@@ -1,0 +1,126 @@
+# Slide 1: Title Slide
+**Cross-Scale Sequence Mixer (CSSM) for Multi-Resolution Electricity Demand Forecasting**  
+**Subtitle:** A Comprehensive Approach to Demand Forecasting  
+**Author:** [Your Name]
+
+---
+
+# Slide 2: Introduction
+**Importance of Demand Forecasting:**  
+- Accurate forecasting is crucial for effective energy management and reduces costs.  
+- Helps in balancing supply and demand.
+
+**Multi-Scale Nature:**  
+- Demand forecasting must consider different temporal and spatial scales to capture variability.
+
+---
+
+# Slide 3: Problem Statement
+**Challenges:**  
+- Existing models often fail to account for multi-scale dependencies.  
+- High variability in electricity consumption.
+
+**Limitations of Previous Models:**  
+- Inadequate representation of temporal dynamics and external factors.
+
+---
+
+# Slide 4: Objectives
+- To enhance forecasting accuracy using CSSM.  
+- To improve model efficiency and interpretability.
+
+---
+
+# Slide 5: Dataset Description
+**ENTSO-E Germany Data:**  
+- Contains hourly electricity consumption data.  
+- Columns: Timestamp, Consumption, Weather Data, etc.  
+- Sample Values: [Insert Sample Values Here]  
+
+**Why It's Suitable:**  
+- Comprehensive and high-quality data covering various influencing factors.
+
+---
+
+# Slide 6: Proposed Methodology
+**Overall Workflow:**  
+- Data collection, preprocessing, modeling, and evaluation.
+
+**CSSM Architecture:**  
+- Include a diagram of the architecture here.
+
+**Features Used:**  
+- Electricity consumption, weather data, calendar features.
+
+---
+
+# Slide 7: Project Modules Overview
+1. Data Collection & Cleaning  
+2. Weather & Calendar Feature Integration  
+3. Multi-Resolution Aggregation  
+4. Feature Engineering  
+5. CSSM Model Design  
+6. Multi-Horizon Output & Consistency Loss  
+7. Training & Validation  
+8. Results Visualization & Interpretation  
+
+---
+
+# Slide 8: Implementation – Modules Breakdown
+- **Data Collection & Cleaning:**  
+  - Details about data sources and cleaning processes.  
+  - ![Image Placeholder]
+
+- **Weather & Calendar Feature Integration:**  
+  - Description of integration methods.  
+  - ![Image Placeholder]
+
+- **Multi-Resolution Aggregation:**  
+  - Explain aggregation techniques.  
+  - ![Image Placeholder]
+
+- **Feature Engineering:**  
+  - Techniques used for feature creation.  
+  - ![Image Placeholder]
+
+- **CSSM Model Design:**  
+  - Overview of model architecture.  
+  - ![Image Placeholder]
+
+- **Multi-Horizon Output & Consistency Loss:**  
+  - Description of output techniques.  
+  - ![Image Placeholder]
+
+- **Training & Validation:**  
+  - Discuss training methods and validation strategies.  
+  - ![Image Placeholder]
+
+- **Results Visualization & Interpretation:**  
+  - Methods for visualizing results.  
+  - ![Image Placeholder]
+
+---
+
+# Slide 9: Expected Outcomes
+- Enhanced forecast accuracy  
+- Improved consistency in predictions  
+- Greater interpretability of the model outputs
+
+---
+
+# Slide 10: Sample Results
+- Include plots of forecast results  
+- Show attention weights from the model  
+- Metrics comparison table  
+
+---
+
+# Slide 11: Conclusion
+- Key takeaways from the project  
+- Scalability of the CSSM approach for other applications
+
+---
+
+# Slide 12: References & Q&A
+- References to relevant literature  
+- Open the floor for questions.
